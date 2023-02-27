@@ -1,0 +1,21 @@
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  row-gap: 25px;
+  column-gap: 45px;
+  margin-top: 30px;
+}
+
+.skill-list__page {
+  max-width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skill-list__title {
+  font-size: 25px;
+  font-weight: 700;
+	line-height: 1.5;
+}
