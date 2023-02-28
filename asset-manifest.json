@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio_React_Artur/static/css/main.6a886fb2.css",
-    "main.js": "/Portfolio_React_Artur/static/js/main.5e89e3d2.js",
-    "static/media/04.png": "/Portfolio_React_Artur/static/media/04.6e4649172f6967becb6b.png",
-    "static/media/01.png": "/Portfolio_React_Artur/static/media/01.6df38dd5809020207389.png",
-    "static/media/03.png": "/Portfolio_React_Artur/static/media/03.59e17b75ae7054837859.png",
-    "static/media/02.png": "/Portfolio_React_Artur/static/media/02.6ae65416332eeb98b960.png",
-    "static/media/react.png": "/Portfolio_React_Artur/static/media/react.065ab7ed59ef0d2a3d6f.png",
-    "static/media/header-bg.png": "/Portfolio_React_Artur/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/sass.png": "/Portfolio_React_Artur/static/media/sass.d33bac54138cc9902cd0.png",
-    "static/media/css.png": "/Portfolio_React_Artur/static/media/css.dd1a76518f51d3e3eb15.png",
-    "static/media/html.png": "/Portfolio_React_Artur/static/media/html.7f56ab32bb5bcf427c32.png",
-    "static/media/js.png": "/Portfolio_React_Artur/static/media/js.29c01113ff7f83aa9655.png",
-    "static/media/sun.svg": "/Portfolio_React_Artur/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
-    "static/media/moon.svg": "/Portfolio_React_Artur/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/gitHub.svg": "/Portfolio_React_Artur/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/gitHub-black.svg": "/Portfolio_React_Artur/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
-    "static/media/whatsapp.svg": "/Portfolio_React_Artur/static/media/whatsapp.21eeb4fead4b745707f1a6b8f55f3d09.svg",
-    "static/media/tg.svg": "/Portfolio_React_Artur/static/media/tg.8ee050a096b56894b222372fd5efef27.svg",
-    "index.html": "/Portfolio_React_Artur/index.html",
-    "main.6a886fb2.css.map": "/Portfolio_React_Artur/static/css/main.6a886fb2.css.map",
-    "main.5e89e3d2.js.map": "/Portfolio_React_Artur/static/js/main.5e89e3d2.js.map"
+    "main.css": "/static/css/main.6ff3bf24.css",
+    "main.js": "/static/js/main.683cb36c.js",
+    "static/media/04.png": "/static/media/04.6e4649172f6967becb6b.png",
+    "static/media/01.png": "/static/media/01.6df38dd5809020207389.png",
+    "static/media/03.png": "/static/media/03.59e17b75ae7054837859.png",
+    "static/media/02.png": "/static/media/02.6ae65416332eeb98b960.png",
+    "static/media/react.png": "/static/media/react.065ab7ed59ef0d2a3d6f.png",
+    "static/media/header-bg.png": "/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sass.png": "/static/media/sass.d33bac54138cc9902cd0.png",
+    "static/media/css.png": "/static/media/css.dd1a76518f51d3e3eb15.png",
+    "static/media/html.png": "/static/media/html.7f56ab32bb5bcf427c32.png",
+    "static/media/js.png": "/static/media/js.29c01113ff7f83aa9655.png",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.21eeb4fead4b745707f1a6b8f55f3d09.svg",
+    "static/media/tg.svg": "/static/media/tg.8ee050a096b56894b222372fd5efef27.svg",
+    "index.html": "/index.html",
+    "main.6ff3bf24.css.map": "/static/css/main.6ff3bf24.css.map",
+    "main.683cb36c.js.map": "/static/js/main.683cb36c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a886fb2.css",
-    "static/js/main.5e89e3d2.js"
+    "static/css/main.6ff3bf24.css",
+    "static/js/main.683cb36c.js"
   ]
 }
