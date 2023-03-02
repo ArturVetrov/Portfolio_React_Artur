@@ -17,7 +17,7 @@ const projects = [
     title: 'Portfolio Artur Vetrov',
     skills: 'React, React-router',
     img: project02,
-    /* gitHubLink: 'https://github.com/ArturVetrov/Repair-Design-Project', */
+    gitHubLink: 'https://github.com/ArturVetrov/Portfolio_React_Artur',
   },
   {
     id: '2',

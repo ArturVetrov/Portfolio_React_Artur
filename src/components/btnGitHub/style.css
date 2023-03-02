@@ -13,11 +13,11 @@
 	background-color: #fff;
 	color: #000;
 
-	transition: opacity 0.2s ease-in;
+	transition: all 0.5s ease;
 }
 
 .btn-outline:hover {
-	opacity: 0.8;
+	border: 3px solid #000;
 }
 
 .btn-outline:active {
