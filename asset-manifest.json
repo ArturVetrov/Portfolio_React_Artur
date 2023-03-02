@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio_React_Artur/static/css/main.6a886fb2.css",
-    "main.js": "/Portfolio_React_Artur/static/js/main.4a7a4f2b.js",
+    "main.css": "/Portfolio_React_Artur/static/css/main.037e27b6.css",
+    "main.js": "/Portfolio_React_Artur/static/js/main.d74d53f8.js",
     "static/media/04.png": "/Portfolio_React_Artur/static/media/04.6e4649172f6967becb6b.png",
     "static/media/01.png": "/Portfolio_React_Artur/static/media/01.6df38dd5809020207389.png",
     "static/media/03.png": "/Portfolio_React_Artur/static/media/03.59e17b75ae7054837859.png",
@@ -19,11 +19,11 @@
     "static/media/whatsapp.svg": "/Portfolio_React_Artur/static/media/whatsapp.21eeb4fead4b745707f1a6b8f55f3d09.svg",
     "static/media/tg.svg": "/Portfolio_React_Artur/static/media/tg.8ee050a096b56894b222372fd5efef27.svg",
     "index.html": "/Portfolio_React_Artur/index.html",
-    "main.6a886fb2.css.map": "/Portfolio_React_Artur/static/css/main.6a886fb2.css.map",
-    "main.4a7a4f2b.js.map": "/Portfolio_React_Artur/static/js/main.4a7a4f2b.js.map"
+    "main.037e27b6.css.map": "/Portfolio_React_Artur/static/css/main.037e27b6.css.map",
+    "main.d74d53f8.js.map": "/Portfolio_React_Artur/static/js/main.d74d53f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a886fb2.css",
-    "static/js/main.4a7a4f2b.js"
+    "static/css/main.037e27b6.css",
+    "static/js/main.d74d53f8.js"
   ]
 }
