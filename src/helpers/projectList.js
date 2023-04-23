@@ -2,6 +2,7 @@ import project01 from './../components/project/img/01.png';
 import project02 from './../components/project/img/02.png';
 import project03 from './../components/project/img/03.png';
 import project04 from './../components/project/img/04.png';
+import project05 from './../components/project/img/05.png';
 
 
 const projects = [
@@ -32,6 +33,13 @@ const projects = [
     skills: 'HTML, CSS, JavaScript, mobile',
     img: project04,
     gitHubLink: 'https://github.com/ArturVetrov/Portfolio-Denis-Novik',
+  },
+  {
+    id: '4',
+    title: 'Cozy House',
+    skills: 'HTML, CSS, JavaScript, mobile',
+    img: project05,
+    gitHubLink: 'https://github.com/ArturVetrov/animal-shelter',
   },
 ]
 
