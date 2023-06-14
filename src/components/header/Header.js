@@ -12,7 +12,7 @@ function Header() {
             {/* <div className="header__text">
                 <p></p>
             </div> */}
-            <a href="https://drive.google.com/file/d/1hpWW5nExyRPjc02v0fkuK6QujXdZeY0j/view?usp=sharing" target="_blank" rel="noreferrer" className="btn">Открыть CV</a>
+            <a href="https://drive.google.com/file/d/1zyRNAT8R6iajLrWjnmUCTgBbsJ6eO9V0/view?usp=sharing" target="_blank" rel="noreferrer" className="btn">Открыть CV</a>
         </div>
     </header>
   )
